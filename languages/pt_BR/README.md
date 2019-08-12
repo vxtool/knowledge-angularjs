@@ -1,4 +1,4 @@
-# Knowledge on AngularJS
+# Conhecimento sobre AngularJS
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-angularjs.svg)](https://github.com/org-victorinox/knowledge-angularjs/issues)
@@ -7,32 +7,32 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-angularjs.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-angularjs/total.svg)
 
-## Languages
+## Idiomas
 
-* [Portuguese - Brazil](languages/pt_BR)
+* [Inglês](https://github.com/org-victorinox/knowledge-angularjs/)
 
-## Documentation
+## Documentação
 
 - [angular.io](https://angular.io/docs)
 
-## Summary
+## Sumário
 
-- [Articles](ARTICLES.md)
-- [Projects](PROJECTS.md)
-- [Videos](VIDEOS.md)
+- [Artigos](ARTICLES.md)
+- [Projetos](https://github.com/org-victorinox/knowledge-angularjs/blob/master/PROJECTS.md)
+- [Vídeos](VIDEOS.md)
 
-## Contributing
+## Contribuindo
 
-- Fork it!
-- Create your feature branch: `git checkout -b my-new-feature`
-- Commit your changes: `git commit -m 'Add some feature'`
-- Push to the branch: `git push origin my-new-feature`
-- Submit a pull request
+- Faça o fork!
+- Crie a sua branch feature: `git checkout -b my-new-feature`
+- Faça o commit das suas alterações: `git commit -m 'Add some feature'`
+- Faça o push para o servidor: `git push origin my-new-feature`
+- E realize o pull request
 
 ## Log
 
-Check [Releases](https://github.com/org-victorinox/knowledge-angularjs/releases) for detailed changelog.
+Verifique os [Releases](https://github.com/org-victorinox/knowledge-vuejs/releases) para ver detalhado o log de alterações.
 
-## License
+## Licença
 
 [MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna
